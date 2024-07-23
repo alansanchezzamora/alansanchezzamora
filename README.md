@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on my web development certificate at BYU-I.
-- 🌱 I’m currently learning React.JS
+- 🌱 I’m currently learning Node.JS
 - 💡 I'm pursuing a software development degree at BYU-I
 <!--
 **alansanchezzamora/alansanchezzamora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
