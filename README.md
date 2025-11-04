@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Data Structures
-- 💡 I'm pursuing a software development degree at BYU-I
+- 💡 I'm pursuing a software development degree at BYU-Pathway
 <!--
 **alansanchezzamora/alansanchezzamora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
