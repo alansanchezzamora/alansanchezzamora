@@ -1,4 +1,4 @@
-# Alan Sánchez Zamora 🌩️
+# Alan Sánchez Zamora 
 
 Hi there! 👋  
 I’m Alan — a Software Development student at **Brigham Young University–Idaho** passionate about the intersection of **Cloud + Finance + Product**.
@@ -23,7 +23,7 @@ I enjoy solving business problems using technology, with a focus on **FinOps**, 
 AWS · Terraform (learning) · Cloudability / Apptio Cost Management · Cost Optimization
 
 **Software Development**  
-Python · Java · SQL · Git/GitHub
+Python · Javascript · SQL · Git/GitHub
 
 **Data & Product**  
 Power BI · Excel Automation · Requirements & Program Management
