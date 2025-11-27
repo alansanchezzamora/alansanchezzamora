@@ -1,18 +1,23 @@
-### Hi there 👋
+# <Your Name Here>
 
-- 🌱 I’m currently learning Data Structures
-- 💡 I'm pursuing a software development degree at BYU-Pathway
-<!--
-**alansanchezzamora/alansanchezzamora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub! 👋
 
-Here are some ideas to get you started:
+I'm Alan Sánchez, a student at Brigham Young University-Idaho interested in Product Management - FinOps. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I'm currently learning ...
+- My goals are to ...
+- Ask me about ...
+
+## Technologies and Tools
+
+- Proficient in: <List of Programming Languages or Technologies>
+- Skills: <Any Other Skills or Tools You Want to Highlight>
+
+## Let's Connect!
+
+- Here is my [LinkedIn](Your LinkedIn Profile Link) profile
+- Here is my [Twitter](Your Twitter Profile Link) profile
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
