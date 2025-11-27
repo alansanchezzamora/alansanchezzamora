@@ -2,7 +2,7 @@
 
 Hello, GitHub! 👋
 
-I'm Alan Sánchez, a student at Brigham Young University-Idaho interested in Product Management - FinOps. Welcome to my GitHub profile!
+I'm Alan Sánchez, a Softwared Development student at Brigham Young University-Idaho interested in Product Management - FinOps. Welcome to my GitHub profile!
 
 ## About Me
 
