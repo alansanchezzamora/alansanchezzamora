@@ -18,4 +18,9 @@ I'm Alan Sánchez, a Software Development student at Brigham Young University-Id
 
 - Here is my [Linkedin Profile](https://www.linkedin.com/in/alanjsanchez/)
 
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alansanchezzamora&show_icons=true&theme=tokyonight)
+
+
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
