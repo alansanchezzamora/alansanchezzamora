@@ -46,8 +46,3 @@ Power BI · Excel Automation · Requirements & Program Management
 
 🔗 **LinkedIn:** [linkedin.com/in/alanjsanchez](https://www.linkedin.com/in/alanjsanchez/)  
 📬 Always happy to talk about **cloud**, **FinOps**, and **product strategy**.
-
----
-
-> *“Tech is not only about building systems — it’s about building outcomes.”*  
-Thanks for stopping by! 🚀
