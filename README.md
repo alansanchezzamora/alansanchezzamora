@@ -1,28 +1,53 @@
-# <Your Name Here>
+# Alan Sánchez Zamora 🌩️
 
-Hello, GitHub! 👋
+Hi there! 👋  
+I’m Alan — a Software Development student at **Brigham Young University–Idaho** passionate about the intersection of **Cloud + Finance + Product**.
 
-I'm Alan Sánchez, a Software Development student at Brigham Young University-Idaho interested in Product Management - FinOps. Welcome to my GitHub profile!
+I enjoy solving business problems using technology, with a focus on **FinOps**, cloud cost visibility, and AI automation for small businesses.
 
-## About Me
+---
 
-- I'm currently learning Power BI, AWS and Software Testing
-- My goals are to to get an MBA internship on a Top Tech Company.
-- Ask me about FinOps, Cloud Financial Management. 
+## 🚀 What I'm Working On
 
-## Technologies and Tools
+- 🎓 Completing my **B.S. in Computer Science**
+- ☁️ Building **Claudia AI** — automation tools for SMBs on AWS  
+- 📈 Growing expertise in **FinOps / Cloud Financial Management**
+- 🎯 Preparing for **MBA internship opportunities** in top tech companies  
+- 🌎 Exploring roles that blend **product + cloud strategy**
 
-- Proficient in: Cloudability, AWS Cost Management. 
+---
 
-## Let's Connect!
+## 🛠️ Tech & Tools
 
-- Here is my [Linkedin Profile](https://www.linkedin.com/in/alanjsanchez/)
+**Cloud & FinOps**  
+AWS · Terraform (learning) · Cloudability / Apptio Cost Management · Cost Optimization
 
-## 📊 GitHub Statistics
+**Software Development**  
+Python · Java · SQL · Git/GitHub
+
+**Data & Product**  
+Power BI · Excel Automation · Requirements & Program Management
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alansanchezzamora&layout=compact&theme=radical&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alansanchezzamora&theme=radical&hide_border=true)
 
+</div>
 
+---
 
-Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
+## 🤝 Let’s Connect!
+
+🔗 **LinkedIn:** [linkedin.com/in/alanjsanchez](https://www.linkedin.com/in/alanjsanchez/)  
+📬 Always happy to talk about **cloud**, **FinOps**, and **product strategy**.
+
+---
+
+> *“Tech is not only about building systems — it’s about building outcomes.”*  
+Thanks for stopping by! 🚀
