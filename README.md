@@ -16,7 +16,6 @@ I'm Alan Sánchez, a Software Development student at Brigham Young University-Id
 
 ## Let's Connect!
 
-- Here is my [Linkedin profile](https://www.linkedin.com/in/alanjsanchez/) 
-[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
+- Here is my [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanjsanchez/)
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
