@@ -16,6 +16,6 @@ I'm Alan Sánchez, a student at Brigham Young University-Idaho interested in Pro
 
 ## Let's Connect!
 
-- Here is my [https://www.linkedin.com/in/alanjsanchez/] profile
+- Here is my [Linkedin](https://www.linkedin.com/in/alanjsanchez/)profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
