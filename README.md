@@ -6,18 +6,16 @@ I'm Alan Sánchez, a student at Brigham Young University-Idaho interested in Pro
 
 ## About Me
 
-- I'm currently learning ...
-- My goals are to ...
-- Ask me about ...
+- I'm currently learning Power BI, AWS and Software Testing
+- My goals are to to get an MBA internship on a Top Tech Company.
+- Ask me about FinOps, Cloud Financial Management. 
 
 ## Technologies and Tools
 
-- Proficient in: <List of Programming Languages or Technologies>
-- Skills: <Any Other Skills or Tools You Want to Highlight>
+- Proficient in: Cloudability, AWS Cost Management. 
 
 ## Let's Connect!
 
-- Here is my [LinkedIn](Your LinkedIn Profile Link) profile
-- Here is my [Twitter](Your Twitter Profile Link) profile
+- Here is my [https://www.linkedin.com/in/alanjsanchez/] profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
