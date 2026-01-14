@@ -12,7 +12,6 @@ I enjoy solving business problems using technology, with a focus on **FinOps**, 
 - 🎓 Completing my **B.S. in Computer Science**
 - ☁️ Building **Claudia AI** — automation tools for SMBs on AWS  
 - 📈 Growing expertise in **FinOps / Cloud Financial Management**
-- 🎯 Preparing for **MBA internship opportunities** in top tech companies  
 - 🌎 Exploring roles that blend **product + cloud strategy**
 
 ---
