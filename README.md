@@ -4,6 +4,7 @@ Hi there! 👋
 I’m Alan — a cloud-focused technologist working at the intersection of Cloud, Finance, and Product.
 
 My work centers on FinOps, cloud cost governance, and data-driven decision-making, with hands-on experience building automation and visibility solutions that help teams optimize cloud spend and scale responsibly.
+
 ---
 
 ## 🚀 What I'm Working On
@@ -12,6 +13,7 @@ My work centers on FinOps, cloud cost governance, and data-driven decision-makin
 🤖 Building Claudia AI — AI-driven automation tools for SMBs on AWS
 📊 Developing cloud cost analytics and executive dashboards
 🧭 Growing toward roles in Product, Cloud Strategy, and Technical Program Leadership
+
 ---
 
 ## 🛠️ Tech & Tools
