@@ -1,31 +1,29 @@
 # Alan Sánchez Zamora 
 
-Hi there! 👋  
-I’m Alan — a Software Development student at **Brigham Young University–Idaho** passionate about the intersection of **Cloud + Finance + Product**.
+Hi there! 👋
+I’m Alan — a cloud-focused technologist working at the intersection of Cloud, Finance, and Product.
 
-I enjoy solving business problems using technology, with a focus on **FinOps**, cloud cost visibility, and AI automation for small businesses.
-
+My work centers on FinOps, cloud cost governance, and data-driven decision-making, with hands-on experience building automation and visibility solutions that help teams optimize cloud spend and scale responsibly.
 ---
 
 ## 🚀 What I'm Working On
 
-- 🎓 Completing my **B.S. in Computer Science**
-- ☁️ Building **Claudia AI** — automation tools for SMBs on AWS  
-- 📈 Growing expertise in **FinOps / Cloud Financial Management**
-- 🌎 Exploring roles that blend **product + cloud strategy**
-
+☁️ Designing and implementing FinOps practices (cost visibility, anomaly detection, unit economics)
+🤖 Building Claudia AI — AI-driven automation tools for SMBs on AWS
+📊 Developing cloud cost analytics and executive dashboards
+🧭 Growing toward roles in Product, Cloud Strategy, and Technical Program Leadership
 ---
 
 ## 🛠️ Tech & Tools
 
 **Cloud & FinOps**  
-AWS · Terraform (learning) · Cloudability / Apptio Cost Management · Cost Optimization
+AWS · Apptio Cloudability · Cost Allocation & Optimization · Anomaly Detection · Commitment Strategy
 
 **Software Development**  
-Python · Javascript · SQL · Git/GitHub
+Python · JavaScript · SQL · APIs · Git/GitHub · Infrastructure Concepts
 
 **Data & Product**  
-Power BI · Excel Automation · Requirements & Program Management
+Power BI · Excel Automation · KPI Design · Requirements & Stakeholder Management
 
 ---
 
